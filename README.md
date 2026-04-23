@@ -312,9 +312,9 @@ This project was developed at **Virginia Tech**.
 
 | Name | Affiliation |
 |---|---|
-| Kavana Venkatesh | Virginia Tech |
-| Jafar Isbarov | Virginia Tech |
-| Tahira Kazimi | Virginia Tech |
+| Kavana Venkatesh | PhD Student |
+| Jafar Isbarov | PhD Student |
+| Tahira Kazimi | PhD Student |
 
 ---
 
